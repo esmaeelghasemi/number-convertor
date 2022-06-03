@@ -1,0 +1,16 @@
+{
+    "name": "esmaeelghasemi/number-convertor",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Esmaeelghasemi\\NumberConvertor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "esmaeelghasemi",
+            "email": "esmaeelghasemi.org@gmail.com"
+        }
+    ],
+    "require": {}
+}
